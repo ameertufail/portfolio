@@ -66,6 +66,6 @@ export default defineConfig({
   },
   base: '/portfolio/',
   build: {
-    chunkSizeWarningLimit: 1500
+    chunkSizeWarningLimit: 15000
   },
 })
