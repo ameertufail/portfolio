@@ -1,9 +1,9 @@
 {
-  "name": "portfolio",
-  "homepage": "https://ameertufail.github.io/portfolio/",
+  "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ameer22l7555.github.io/portfolio",
   "scripts": {
     "dev": "vite --force",
     "build": "vite build",

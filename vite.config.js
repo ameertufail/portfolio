@@ -64,5 +64,5 @@ export default defineConfig({
   optimizeDeps: {
     include: ['three'],
   },
-  base: '/portfolio',
+  base: '/portfolio/',
 })
